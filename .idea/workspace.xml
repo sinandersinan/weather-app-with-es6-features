@@ -70,6 +70,7 @@
       <workItem from="1643406146603" duration="4788000" />
       <workItem from="1643415436364" duration="97000" />
       <workItem from="1643415610572" duration="496000" />
+      <workItem from="1643474507942" duration="187000" />
     </task>
     <task id="LOCAL-00001" summary="Because">
       <created>1643415371452</created>
@@ -92,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643415991750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ignoring some files">
+      <created>1643474817437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643474817437</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
